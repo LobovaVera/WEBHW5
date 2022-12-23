@@ -1,0 +1,8 @@
+<user>
+	<name type = "string">"Иван"</name>
+	<surname type = "string">"Иванов"</surname>
+	<patronymic type = "string">"Иванович"</patronymic>
+	<age type = "integer">30</age>
+	<phone state="+7" code="926" number="766-48-48">+7 (926) 766-48-48 </phone>
+	<birthplace city = "Москва">"Москва"</birthplace>
+</user>
